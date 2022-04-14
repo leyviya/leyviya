@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leyla Abdullayeva.</h1>
 
-<h3 align="center">Tech Enthuasiast 🚀 / "Computer Engineering" candidate from Azerbaijan🇦🇿.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leyviya&label=Profile%20views&color=0e75b6&style=flat" alt="leyviya" /> </p>
+<h3 align="center">Tech Enthusiast 🚀 / "Computer Engineering" candidate from Azerbaijan🇦🇿.</h3>
 
 - 🔭 I’m currently working on - **Stock Prediction Web App - Python.**
 
