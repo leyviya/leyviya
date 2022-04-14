@@ -2,24 +2,26 @@
 
 <h3 align="center">Tech Enthusiast 🚀 / "Computer Engineering" candidate from Azerbaijan🇦🇿.</h3>
 
-- 🔭 I’m currently working on - **Stock Prediction Web App - Python.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leyviya&label=Profile%20views&color=0e75b6&style=flat" alt="leyviya" /> </p>
 
-- 🌱 I’m currently learning -  **Python**
+- 🔭 I’m currently working on **Stock Prediction Web App - Python.**
 
-- 👨‍💻 All of my projects are available at - (will be coming soon...)
+- 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on -  [https://maker.robotistan.com/yapay-zeka-nedir/](https://maker.robotistan.com/yapay-zeka-nedir/)
+- 👨‍💻 All of my projects are available at [will be coming soon...](will be coming soon...)
 
-- 📫 How to reach me -  **leyla.abdullayeva21@outlook.com**
+- 📝 I regularly write articles on [https://maker.robotistan.com/yapay-zeka-nedir/](https://maker.robotistan.com/yapay-zeka-nedir/)
 
-- 📄 Know about my experiences -  [https://drive.google.com/file/d/1thfK6AQRA7FEgp0LOrZCP5mZwQ7-V-2A/view?usp=drivesdk](https://drive.google.com/file/d/1thfK6AQRA7FEgp0LOrZCP5mZwQ7-V-2A/view?usp=drivesdk)
+- 📫 How to reach me **leyla.abdullayeva21@outlook.com**
 
-- ⚡ Fun fact - **I'm a really good piano player and music enthusiast also 🙃 .**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1thfK6AQRA7FEgp0LOrZCP5mZwQ7-V-2A/view?usp=drivesdk](https://drive.google.com/file/d/1thfK6AQRA7FEgp0LOrZCP5mZwQ7-V-2A/view?usp=drivesdk)
+
+- ⚡ Fun fact **I'm a really good piano player and music enthusiast also 🙃 .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leyla-abdullayeva-557138197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leyla-abdullayeva-557138197/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/leyla.abdullayeva.56808/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/leyla.abdullayeva.56808/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leyla-abdullayeva-557138197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leyla-abdullayeva-557138197" height="30" width="40" /></a>
+<a href="https://fb.com/leyla.abdullayeva.56808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leyla.abdullayeva.56808" height="30" width="40" /></a>
 <a href="https://instagram.com/leyviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leyviya" height="30" width="40" /></a>
 </p>
 
